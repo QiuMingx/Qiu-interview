@@ -1,6 +1,6 @@
 # Qi-interview
 
-- [【2021-02-22】手写实现一个 Promise](https://github.com/jwchan1996/blog/issues/30)
+- [【2021-02-22】手写实现一个 Promise](https://github.com/Qiluzz/Qi-interview/issues/1)
 
 - [前端面试题]
   - [$浏览器](#)
