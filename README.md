@@ -24,49 +24,38 @@
     #### CSS 
     ##### 角标
     ```
-    <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>制作角标的方法</title>
-    <style>
-        .con {
-            height: 250px;
-            width: 200px;
-            margin: 0 auto;
-            overflow: hidden;
-            margin-top: 100px;
-            position: relative;
-            background-color: #4cd964;
-        }
+  .con {
+      height: 250px;
+      width: 200px;
+      margin: 0 auto;
+      overflow: hidden;
+      margin-top: 100px;
+      position: relative;
+      background-color: #4cd964;
+  }
 
-        .subscript {
-            color: #fff;
-            height: 30px;
-            width: 100px;
-            position: absolute;
-            right: -30px;
-            text-align: center;
-            line-height: 30px;
-            font-family: "黑体";
-            background-color: #0c60ee;
-            -moz-transform: rotate(45deg);
-            -webkit-transform: rotate(45deg);
-            -o-transform: rotate(45deg);
-            -ms-transform: rotate(45deg);
-            transform: rotate(45deg);
-        }
-    </style>
-</head>
+  .subscript {
+      color: #fff;
+      height: 30px;
+      width: 100px;
+      position: absolute;
+      right: -30px;
+      text-align: center;
+      line-height: 30px;
+      font-family: "黑体";
+      background-color: #0c60ee;
+      -moz-transform: rotate(45deg);
+      -webkit-transform: rotate(45deg);
+      -o-transform: rotate(45deg);
+      -ms-transform: rotate(45deg);
+      transform: rotate(45deg);
+  }
+ <div class="con">
+     <div class="subscript">
+         角标
+     </div>
+ </div>
 
-<body>
-    <div class="con">
-        <div class="subscript">
-            角标
-        </div>
-    </div>
-</body>
-</html>
     ```
     
     
