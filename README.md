@@ -51,27 +51,8 @@
       transform: rotate(45deg);
   }
     <div class="con">
-        <div class="subscript">
-            角标
-        </div>
+      <div class="subscript">角标</div>
     </div>
+    
  ```
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+ 
